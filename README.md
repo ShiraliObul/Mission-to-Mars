@@ -15,8 +15,7 @@ Web scraping to extrarct the data about Mission to Mars in a automatic way and s
 ## Result
 
 A responsive webpage (an app) to scrape new data was created such as:
-
-     <img width="576" alt="Screen Shot 2022-08-11 at 9 38 50 AM" src="https://user-images.githubusercontent.com/65901034/184146670-e2657c72-f9d9-4faa-8e69-08bd66958ece.png">
+<img width="576" alt="Screen Shot 2022-08-11 at 9 38 50 AM" src="https://user-images.githubusercontent.com/65901034/184146670-e2657c72-f9d9-4faa-8e69-08bd66958ece.png">
 
      
 ## Software and programming resources 
